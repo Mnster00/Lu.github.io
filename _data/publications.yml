@@ -1,6 +1,14 @@
 main:
 
 
+
+  - title: Semi-supervised Chinese poem-to-painting generation via cycle-consistent adversarial networks
+    authors: <strong>Zhengyang Lu</strong>, Tianhao Guo, Feng Wang*
+    conference: Journal of Electronic Imaging, 2024.
+    pdf: https://arxiv.org/pdf/2410.19307.pdf
+    bibtex: ./assets/files/bib_semi.txt
+    image: ./assets/img/paintings.png
+    
   - title: Few-shot bronze vessel classification via siamese fourier networks
     authors: Weifan Wang, <strong>Zhengyang Lu*</strong>
     conference: Scientific Reports, 2024.
