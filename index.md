@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Lecturer in School of Design at Jiangnan University. 
+Postdoctoral Lecturer in School of Design at Jiangnan University. 
 
 ## Research Interests
 
