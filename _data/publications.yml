@@ -13,6 +13,6 @@ main:
     conference: Journal of Electronic Imaging, 2021.
     pdf: ./assets/files/JEI-210199_online.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
-    bibtex: ./assets/files/bib_densesr.txt
-    image: ./assets/img/shuffle.png
+    bibtex: ./assets/files/bib_gacspn.txt
+    image: ./assets/img/arctecture.png
     
