@@ -1,18 +1,16 @@
 main:
 
-
   - title: Single image super-resolution based on a modified U-net with mixed gradient loss
     authors: <strong>Zhengyang Lu*</strong>, Ying Chen* (*Corresponding authors)
-    conference: Signal, Image and Video Processing, 2021
+    conference: Signal, Image and Video Processing, 2021.
     pdf: https://arxiv.org/pdf/1911.09428.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
     bibtex: ./assets/files/bib_unetsr.txt
     image: ./assets/img/unetSR.jpg
 
-
   - title: GA-CSPN: generative adversarial monocular depth estimation with second-order convolutional spatial propagation network
     authors: <strong>Zhengyang Lu*</strong>, Ying Chen* (*Corresponding authors)
-    conference: Journal of Electronic Imaging, 2021
+    conference: Journal of Electronic Imaging, 2021.
     pdf: ./assets/files/JEI-210199_online.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
     bibtex: ./assets/files/bib_densesr.txt
