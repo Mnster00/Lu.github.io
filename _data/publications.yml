@@ -9,7 +9,7 @@ main:
     image: ./assets/img/unetSR.jpg
 
 
-  - title: GA-CSPN\: generative adversarial monocular depth estimation with second-order convolutional spatial propagation network
+  - title: GA-CSPN generative adversarial monocular depth estimation with second-order convolutional spatial propagation network
     authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
     conference: Journal of Electronic Imaging, 2021.
     pdf: https://arxiv.org/pdf/1911.09428.pdf
