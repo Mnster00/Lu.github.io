@@ -1,0 +1,10 @@
+@article{lu2023joint,
+  title={Joint self-supervised depth and optical flow estimation towards dynamic objects},
+  author={Lu, Zhengyang and Chen, Ying},
+  journal={Neural Processing Letters},
+  volume={55},
+  number={8},
+  pages={10235--10249},
+  year={2023},
+  publisher={Springer}
+}
