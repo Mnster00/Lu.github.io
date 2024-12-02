@@ -1,10 +1,6 @@
 main:
 
 
-
-
-
-
   - title: Single image super-resolution based on a modified U-net with mixed gradient loss
     authors: <strong>Zhengyang Lu*</strong>, Ying Chen* (*Corresponding authors)
     conference: Signal, Image and Video Processing, 2021
