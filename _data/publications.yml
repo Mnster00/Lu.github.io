@@ -20,5 +20,5 @@ main:
     pdf: ./assets/files/JEI-210199_online.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
     bibtex: ./assets/files/bib_densesr.txt
-    image: ./assets/img/unetSR.jpg
+    image: ./assets/img/shuffle.png
     
