@@ -9,8 +9,8 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)</li>
-  <li>IEEE Transactions on Instrumentation and Measurement(TIM)</li>
+  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+  <li>IEEE Transactions on Instrumentation and Measurement (TIM)</li>
   <li>Knowledge-Based Systems</li>
   <li>Machine Vision and Applications</li>
   <li>Image and Vision Computing</li>
