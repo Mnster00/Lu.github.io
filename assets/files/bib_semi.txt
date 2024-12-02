@@ -1,0 +1,10 @@
+@article{lu2024semi,
+  title={Semi-supervised Chinese poem-to-painting generation via cycle-consistent adversarial networks},
+  author={Lu, Zhengyang and Guo, Tianhao and Wang, Feng},
+  journal={Journal of Electronic Imaging},
+  volume={33},
+  number={5},
+  pages={053056--053056},
+  year={2024},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}
