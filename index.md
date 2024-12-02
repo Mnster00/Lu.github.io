@@ -13,9 +13,12 @@ I am currently a Postdoctoral Lecturer in School of Design at Jiangnan Universit
 - **City Perception:** Social Media Analytics, Urban Policy Q&A
 
 
-{% include_relative _includes/funds.md %}
+
 
 {% include_relative _includes/publications.md %}
+
+
+{% include_relative _includes/funds.md %}
 
 {% include_relative _includes/services.md %}
 
