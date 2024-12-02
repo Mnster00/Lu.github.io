@@ -1,0 +1,10 @@
+@article{lu2024city,
+  title={City scene super-resolution via geometric error minimization},
+  author={Lu, Zhengyang and Wang, Feng},
+  journal={Journal of Electronic Imaging},
+  volume={33},
+  number={1},
+  pages={013014--013014},
+  year={2024},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}
