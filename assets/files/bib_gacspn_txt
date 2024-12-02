@@ -1,0 +1,10 @@
+@article{lu2021ga,
+  title={GA-CSPN: generative adversarial monocular depth estimation with second-order convolutional spatial propagation network},
+  author={Lu, Zhengyang and Chen, Ying},
+  journal={Journal of Electronic Imaging},
+  volume={30},
+  number={4},
+  pages={043019--043019},
+  year={2021},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}
