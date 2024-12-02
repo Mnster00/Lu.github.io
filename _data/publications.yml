@@ -2,6 +2,13 @@ main:
 
 
 
+  - title: Joint self-supervised depth and optical flow estimation towards dynamic objects
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen*
+    conference: Neural Processing Letters, 2023.
+    pdf: https://arxiv.org/pdf/2310.00011.pdf
+    bibtex: ./assets/files/bib_jointdepth.txt
+    image: ./assets/img/qualitative.png
+
   - title: Fabric defect detection via a spatial cloze strategy
     authors: <strong>Zhengyang Lu</strong>, Yudian Zhang, Han Xu, Han Chen*
     conference: Textile Research Journal, 2023.
