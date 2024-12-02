@@ -1,0 +1,10 @@
+@article{lu2023fabric,
+  title={Fabric defect detection via a spatial cloze strategy},
+  author={Lu, Zhengyang and Zhang, Yudian and Xu, Han and Chen, Han},
+  journal={Textile Research Journal},
+  volume={93},
+  number={7-8},
+  pages={1612--1627},
+  year={2023},
+  publisher={SAGE Publications Sage UK: London, England}
+}
