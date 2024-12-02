@@ -1,6 +1,20 @@
 main:
 
 
+  - title: Few-shot bronze vessel classification via siamese fourier networks
+    authors: Weifan Wang, <strong>Zhengyang Lu*</strong>
+    conference: Scientific Reports, 2024.
+    pdf: https://www.nature.com/articles/s41598-024-69272-z.pdf
+    bibtex: ./assets/files/bib_few.txt
+    image: ./assets/img/arc.png
+    
+  - title: Self-supervised monocular depth estimation on water scenes via specular reflection prior
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen*
+    conference: Digital Signal Processing, 2024.
+    pdf: https://arxiv.org/pdf/2404.07176.pdf
+    bibtex: ./assets/files/bib_refdepth.txt
+    image: ./assets/img/virtualpose.png
+
   - title: Self-supervised monocular depth estimation on water scenes via specular reflection prior
     authors: <strong>Zhengyang Lu</strong>, Ying Chen*
     conference: Digital Signal Processing, 2024.
