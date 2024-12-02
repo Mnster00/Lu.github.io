@@ -1,0 +1,9 @@
+@article{lu2024self,
+  title={Self-supervised monocular depth estimation on water scenes via specular reflection prior},
+  author={Lu, Zhengyang and Chen, Ying},
+  journal={Digital Signal Processing},
+  volume={149},
+  pages={104496},
+  year={2024},
+  publisher={Elsevier}
+}
