@@ -1,5 +1,15 @@
 main:
 
+
+  - title: Pyramid frequency network with spatial attention residual refinement module for monocular depth estimation
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
+    conference: Journal of Electronic Imaging, 2022.
+    pdf: https://arxiv.org/pdf/2204.02386.pdf
+    code: https://github.com/Mnster00/simplifiedUnetSR
+    bibtex: ./assets/files/bib_pfn.txt
+    image: ./assets/img/pyarc.png
+
+
   - title: Single image super-resolution based on a modified U-net with mixed gradient loss
     authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
     conference: Signal, Image and Video Processing, 2021.
@@ -16,6 +26,7 @@ main:
     code: https://github.com/Mnster00/simplifiedUnetSR
     bibtex: ./assets/files/bib_gacspn.txt
     image: ./assets/img/arctecture.png
+
 
 
     
