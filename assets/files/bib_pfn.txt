@@ -1,0 +1,10 @@
+@article{lu2022pyramid,
+  title={Pyramid frequency network with spatial attention residual refinement module for monocular depth estimation},
+  author={Lu, Zhengyang and Chen, Ying},
+  journal={Journal of Electronic Imaging},
+  volume={31},
+  number={2},
+  pages={023005--023005},
+  year={2022},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}
