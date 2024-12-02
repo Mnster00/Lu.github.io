@@ -1,6 +1,15 @@
 main:
 
+  - title: Dense U-Net for single image super-resolution using shuffle pooling
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
+    conference: Journal of Electronic Imaging, 2022.
+    pdf: https://arxiv.org/pdf/2011.05490.pdf
+    code: https://github.com/Mnster00/simplifiedUnetSR
+    bibtex: ./assets/files/bib_densesr.txt
+    image: ./assets/img/shuffle.png
 
+
+    
   - title: Pyramid frequency network with spatial attention residual refinement module for monocular depth estimation
     authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
     conference: Journal of Electronic Imaging, 2022.
