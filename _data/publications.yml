@@ -3,7 +3,7 @@ main:
 
 
   - title: Fabric defect detection via a spatial cloze strategy
-    authors: <strong>Zhengyang Lu</strong>, Yudian Zhang, Han Xu, Han Chen* (*Corresponding authors)
+    authors: <strong>Zhengyang Lu</strong>, Yudian Zhang, Han Xu, Han Chen*
     conference: Textile Research Journal, 2023.
     pdf: https://github.com/Mnster00/Lu.github.io/tree/main/assets/files/TRJ1135205.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
@@ -11,7 +11,7 @@ main:
     image: ./assets/img/alflow5.png
 
   - title: Dense U-Net for single image super-resolution using shuffle pooling
-    authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen*
     conference: Journal of Electronic Imaging, 2022.
     pdf: https://arxiv.org/pdf/2011.05490.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
@@ -21,7 +21,7 @@ main:
 
     
   - title: Pyramid frequency network with spatial attention residual refinement module for monocular depth estimation
-    authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen*
     conference: Journal of Electronic Imaging, 2022.
     pdf: https://arxiv.org/pdf/2204.02386.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
@@ -30,7 +30,7 @@ main:
 
 
   - title: Single image super-resolution based on a modified U-net with mixed gradient loss
-    authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen*
     conference: Signal, Image and Video Processing, 2021.
     pdf: https://arxiv.org/pdf/1911.09428.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
@@ -39,7 +39,7 @@ main:
 
 
   - title: GA-CSPN generative adversarial monocular depth estimation with second-order convolutional spatial propagation network
-    authors: <strong>Zhengyang Lu</strong>, Ying Chen* (*Corresponding authors)
+    authors: <strong>Zhengyang Lu</strong>, Ying Chen*
     conference: Journal of Electronic Imaging, 2021.
     pdf: https://github.com/Mnster00/Lu.github.io/tree/main/assets/files/JEI-210199_online.pdf
     code: https://github.com/Mnster00/simplifiedUnetSR
