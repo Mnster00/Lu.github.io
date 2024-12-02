@@ -2,6 +2,16 @@ main:
 
 
 
+
+
+  - title: City scene super-resolution via geometric error minimization
+    authors: <strong>Zhengyang Lu</strong>, Feng Wang*
+    conference: Journal of Electronic Imaging, 2024.
+    pdf: https://arxiv.org/pdf/2401.07272.pdf
+    code: https://github.com/Mnster00/GeoSR
+    bibtex: ./assets/files/bib_geosr.txt
+    image: ./assets/img/quandemo3.png
+
   - title: Joint self-supervised depth and optical flow estimation towards dynamic objects
     authors: <strong>Zhengyang Lu</strong>, Ying Chen*
     conference: Neural Processing Letters, 2023.
