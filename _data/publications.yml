@@ -23,12 +23,6 @@ main:
     bibtex: ./assets/files/bib_refdepth.txt
     image: ./assets/img/virtualpose.png
 
-  - title: Self-supervised monocular depth estimation on water scenes via specular reflection prior
-    authors: <strong>Zhengyang Lu</strong>, Ying Chen*
-    conference: Digital Signal Processing, 2024.
-    pdf: https://arxiv.org/pdf/2404.07176.pdf
-    bibtex: ./assets/files/bib_refdepth.txt
-    image: ./assets/img/virtualpose.png
 
 
   - title: City scene super-resolution via geometric error minimization
