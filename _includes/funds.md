@@ -1,4 +1,4 @@
-## funds
+## Funds
 
 <h4 style="margin:0 10px 0;">Principal Investigator (PI) of</h4>
 
@@ -13,5 +13,5 @@
 <ul style="margin:0 0 20px;">
   <li>National Social Science Fund of China Major Project in Artistic Studies (No.22ZD18) (PI: Wang Feng)</li>
   <li>General Program of National Natural Science Foundation of China (No.61573168) (PI: Chen Ying)</li>
-  <li>General Program of National Natural Science Foundation of China (No.62173160) (PI: Chen Ying) </li>
+  <li>General Program of National Natural Science Foundation of China (No.62173160) (PI: Chen Ying)</li>
 </ul>
